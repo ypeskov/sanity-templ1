@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/posts/[slug]/page": "app/posts/[slug]/page.js",
+  "/api/draft-mode/enable/route": "app/api/draft-mode/enable/route.js",
+  "/_not-found/page": "app/_not-found/page.js",
+  "/[slug]/page": "app/[slug]/page.js"
+}

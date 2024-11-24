@@ -1,0 +1,49 @@
+{
+  "node": {
+    "00a1f10a743471860af155b52ebc52a02fa365f1c4": {
+      "workers": {
+        "app/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@sanity/next-loader/dist/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/next-sanity/dist/visual-editing/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[slug]/page": "action-browser"
+      }
+    },
+    "7f237e203b58e675fd46fa547a308ddd70d766eb78": {
+      "workers": {
+        "app/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@sanity/next-loader/dist/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/next-sanity/dist/visual-editing/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[slug]/page": "action-browser"
+      }
+    },
+    "7ffde2bfb38aa86e4305c657ed99c0a47282975bd6": {
+      "workers": {
+        "app/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@sanity/next-loader/dist/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/next-sanity/dist/visual-editing/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[slug]/page": "action-browser"
+      }
+    },
+    "7f3b2aeddfe356f73fab44a2ff93e583c77c9f84ef": {
+      "workers": {
+        "app/[slug]/page": {
+          "moduleId": "[project]/.next-internal/server/app/[slug]/page/actions.js { ACTIONS_MODULE0 => \"[project]/app/actions.ts [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/node_modules/@sanity/next-loader/dist/server-actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE2 => \"[project]/node_modules/next-sanity/dist/visual-editing/server-actions.js [app-rsc] (ecmascript)\" } [app-rsc] (ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/[slug]/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}
